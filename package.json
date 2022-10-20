@@ -1,5 +1,5 @@
 {
-  "name": "soft-backend",
+  "name": "",
   "version": "1.0.0",
   "description": "Implement a clone of “**Stackoverflow**”. Features to be focused on are:",
   "main": "index.js",
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ejiro-Edwin/Soft-Backend.git"
+    "url": " "
   },
-  "author": "Obamrevwo Ejiro Edwin",
+  "author": " ",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ejiro-Edwin/Soft-Backend/issues"
+    "url": " "
   },
-  "homepage": "https://github.com/Ejiro-Edwin/Soft-Backend#readme",
+  "homepage": "",
   "devDependencies": {
     "chai": "^4.2.0",
     "eslint": "^5.11.1",
