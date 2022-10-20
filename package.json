@@ -1,7 +1,7 @@
 {
   "name": "",
   "version": "1.0.0",
-  "description": "Implement a clone of “**Stackoverflow**”. Features to be focused on are:",
+  "description": "Implement a clone of Stackoverflow. Features to be focused on are:",
   "main": "index.js",
   "private": true,
   "engines": {
